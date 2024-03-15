@@ -26,10 +26,10 @@ Here's a brief overview of how to use DataPrepKit:
 
 pythonCopy code
 
-`from DataPrepKit_mv.DataPrepKit_mv imoprt read_data()
+`from DataPrepKit_mv.DataPrepKit_mv imoprt read_data
 
 # Read data from a CSV file
-data = read_data(name.csv)
+data = read_data()
 
 # Summarize the dataset
 data.summary()
